@@ -1,0 +1,3 @@
+include ':mcommonsdk'
+include ':app'
+rootProject.name = "MCommonSDK"
